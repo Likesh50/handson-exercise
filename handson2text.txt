@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+<head>
+
+<style>
+#titleName
+{
+position:absolute;font-size:25Px;
+top:350px;left:120Px;
+}
+#titleDescription
+{
+    position:absolute;font-size:25Px;
+    top:350px;left:120Px;   
+}
+#viewWork
+{
+position:absolute;
+top:470;left:330px;
+}
+.button1
+{
+border-radius:50px;
+}
+#backGroundImage
+{
+width:700px;height:800px;
+background-color:white;
+}
+
+#firstImage
+{
+width:1400px;height:800Px;
+}
+#secondImage
+{
+width:1400px;height:800Px;
+}
+#thirdImage
+{
+width:1400px;height:800Px;
+}
+#fourthImage
+{
+width:1400px;height:800Px;
+}
+#firstImageName
+{
+position:absolute;
+left:500px;
+font-size:35px;
+}
+#secondImageName
+{
+position:absolute;
+left:500px;
+font-size:35px;
+}
+#thirdImageName
+{
+position:absolute;
+left:500px;
+font-size:35px;
+}
+#ourWork
+{
+text-align:right;
+color:white;
+position:absolute;
+top:118%;left:38%;
+}
+
+</style>
+
+<title>Neo Photography</title>
+</head>
+
+<body bgcolor="lightgrey">
+
+
+<div class="right">
+<h1 id="titleName">NEO PHOTOGRAPHY</h1>
+<h2 id="titleDescription">Beautiful Commercial Photography</h2>
+<br>
+<img id="backGroundImage" src="https://images.unsplash.com/photo-1556103255-4443dbae8e5a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGhvdG9ncmFwaGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80">
+<a id="viewWork">View Work</a>
+</div>
+
+
+<div>
+
+<header id="ourWork"><h3="center">| Our Work |</h3></header>
+<img id="firstImage" src="https://images.unsplash.com/photo-1592892111425-15e04305f961?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvY2ElMjBjb2xhfGVufDB8fDB8fA%3D%3D&w=1000&q=80">
+<p> </p>
+
+<img id="secondImage" src="https://i0.wp.com/vegecravings.com/wp-content/uploads/2021/02/Fried-Momos-Recipe-Step-By-Step-Instructions-scaled.jpg?fit=2560%2C1910&quality=65&strip=all&ssl=1">
+</div>
+
+
+<div>
+<p id="firstImageName">Food Photography</p>
+<img id="thirdImage" src="https://media.istockphoto.com/id/1153849876/photo/panoramic-view-of-manhattan-skyscrapers-at-night-at-christmas-from-the-dumbo-area-in-brooklyn.jpg?b=1&s=170667a&w=0&k=20&c=CuYKneJMorCMKdL2TvbAxaO7JD9C4dEB_9RGM5CW3r4=">
+</div>
+
+<div>
+<p id="secondImageName">Aerial Photography</p>
+<img id="fourthImage" src="https://media.istockphoto.com/id/541577404/photo/circuit-and-light-bulb.jpg?s=612x612&w=0&k=20&c=pwyZUPzMd1DWxixrzw88JkpI7ARjvauCA6bsu-rxp1g=">
+<p id="thirdImageName">Abstract Photography</p>
+</div>
+
+</body>
+</html>
